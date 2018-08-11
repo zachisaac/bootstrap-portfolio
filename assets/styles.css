@@ -1,0 +1,45 @@
+/*Stylesheet for Bootstrap Portfolio*/
+h2 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h3 {
+    background-color: white;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.gallery {
+    list-style: none;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+h4 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+h6 {
+    padding-top: 15px;
+    border-top: #4aaaa5 2px solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
